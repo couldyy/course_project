@@ -1,0 +1,17 @@
+﻿  ConsoleApplication21_courseProject.cpp
+  CreateAdd.cpp
+  delete.cpp
+  edit.cpp
+  fileOperations.cpp
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\fileOperations.cpp(8,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  menu.cpp
+  query.cpp
+  util.cpp
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(31,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(64,10): warning C4101: k: неиспользованная локальная переменная
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(108,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(165,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(165,12): message : рекомендуется использовать "%zd" в строке форматирования
+  Создание кода...
+D:\Visual Studio Projects\ConsoleApplication21_courseProject\ConsoleApplication21_courseProject\util.cpp(216): warning C4715: selectSubject: значение возвращается не при всех путях выполнения
+  ConsoleApplication21_courseProject.vcxproj -> D:\Visual Studio Projects\ConsoleApplication21_courseProject\x64\Debug\ConsoleApplication21_courseProject.exe
